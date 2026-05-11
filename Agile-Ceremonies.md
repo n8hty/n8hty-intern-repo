@@ -1,8 +1,8 @@
 # Agile Ceremonies & Team Collaboration
 
-## What are the main Agile ceremonies, and what is their purpose?
+## 1. What are the main Agile ceremonies, and what is their purpose?
 
-### 1. Daily Stand-ups
+### Daily Stand-ups
 It is a short daily meeting that occurs at the same time and place each day.
 
 Its purpose is to:
@@ -10,7 +10,7 @@ Its purpose is to:
 - identify any obstacles or issues. 
 - ensure that everyone is on track to meet their goal.
 
-### 2. Sprint Planning (Scrum) vs. Continuous Prioritization (Kanban)
+### Sprint Planning (Scrum) vs. Continuous Prioritization (Kanban)
 #### Sprint Planning (Scrum)
 It occurs at the beginning of each sprint, which is typically a two-to-four-week time frame.
 
@@ -27,7 +27,7 @@ Its purpose is to:
 - improve workflow flexibility.
 - continuously deliver tasks as capacity becomes available.
 
-### 3. Retrospectives
+### Retrospectives
 A retrospective is a meeting held after a sprint or project cycle.
 
 Its purpose is to:
@@ -36,7 +36,7 @@ Its purpose is to:
 - discuss improvements for future work.
 - strengthen teamwork and communication.
 
-### 4. Backlog Refinement
+### Backlog Refinement
 Backlog refinement is when the team reviews and updates upcoming tasks in the backlog.
 
 Its purpose is to:
@@ -45,7 +45,7 @@ Its purpose is to:
 - break large tasks into smaller manageable items.
 - prepare tasks for future sprints.
 
-## How do Agile teams collaborate asynchronously and across time zones?
+## 2. How do Agile teams collaborate asynchronously and across time zones?
 Agile teams collaborate asynchronously and across time zones by:
 - using communication tools like Slack, GitHub, Jira, and email.
 - documenting updates clearly in issues, pull requests, and shared documents.
@@ -68,12 +68,5 @@ They also help reduce misunderstandings and improve collaboration between team m
 I think retrospectives are the most important ceremony for my role as a UX Designer Intern because they provide an opportunity to reflect on what worked well 
 and what could be improved in the design and collaboration process. Retrospectives encourage open communication, feedback, and continuous improvement, which helps me learn 
 from past work and improve future user experience designs.
-
-
-
-
-
-
-
 
 
