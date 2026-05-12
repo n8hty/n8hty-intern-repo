@@ -1,55 +1,51 @@
-# Agile Team Roles
+# Roles in an Agile Team
 
 ## 1. What are the key roles in an Agile team, and what does each role do?
 
-### Developers
-Developers are responsible for building, testing, and maintaining the product or application. They work on implementing features, fixing bugs, and improving functionality.
+- ### Developers
+Developers are responsible for building applications and implementing features required by the client.
 
-### QA (Quality Assurance)
-QA team members test the product to ensure it works correctly and meets quality standards. They identify bugs, verify fixes, and help improve the user experience.
+- ### QA (Quality Assurance)
+QA are responsible for testing the products and identify bugs to ensure it meets quality standards.
+  
+- ### Product Manager (PM)
+PM are responsible for defining the product goals and ensures that the team meets the user and business needs.
 
-### Product Manager (PM)
-The Product Manager defines product goals, prioritizes features, and ensures the team is building solutions that meet user and business needs.
+- ### Agile Project Manager (Agile PM)
+Agile PM are responsible for helping the team coordinate and support agile processes.
 
-### Agile Project Manager (Agile PM)
-The Agile Project Manager helps coordinate the team, remove blockers, manage timelines, and support Agile processes and communication.
-
-### Other Supporting Roles
-
-#### UX Designers
-UX designers focus on improving the user experience by researching user needs, creating wireframes, prototypes, and designing user-friendly interfaces.
-
-#### Stakeholders
-Stakeholders provide feedback, requirements, and business direction for the project.
-
-#### Customer Support
-Customer support teams help users, report issues, and provide feedback that can improve the product.
+- ### Other supporting roles
+1. UX Designers - they focus on designing and improving user experience by researching user needs and creating user-friendly interfaces.
+2. Stakeholders - they provide feedback and business direction for the project.
+3. Customer Support - they help users who have issues and provide feedback to the team for improvement.
 
 ## 2. How do these roles collaborate in Kanban vs. Scrum?
-In Scrum, team members work within fixed sprint cycles and collaborate during ceremonies such as sprint planning, stand-ups, and retrospectives.
-In Kanban, collaboration is more continuous and flexible. Team members work together by updating tasks regularly, managing workflow visually, and prioritizing tasks as needed.
-Both approaches rely on communication, teamwork, and shared responsibility to complete tasks successfully.
+
+### Kanban
+- tasks are completed continuously
+- uses boards with workflow columns
+- meetings are less required
+
+### Scrum
+- tasks are planned for a sprint
+- uses boards with sprint-based tasks
+- regular meetings are required
 
 # Reflection
 
 ## 1. What is your role, and how does it contribute to the Agile process?
-My role is a UX Designer Intern. I contribute to the Agile process by helping design user-friendly experiences, improving interface usability, and collaborating with developers 
-and project managers to ensure the product meets user needs.
+I am a UX Designer. I contribute to the Agile process by ensuring that we design user-friendly experiences and collaborating with the developers and PM.
 
 ## 2. How do your responsibilities overlap or interact with other roles in the team?
-My responsibilities overlap closely with developers, product managers, and QA team members. I collaborate with developers to ensure designs are implemented correctly, work with 
-product managers to understand requirements and priorities, and communicate with QA to help identify usability issues and improve the user experience.
+As a UX Designer, my responsibilities overlap with other roles through collaboration and communication. I work closely with developers to ensure that the project is designed with functionality, and with PMs to align designs with the timeline and project goals. I also coordinate with the stakeholders and users to gather feedback and overall improve the product design. 
 
-# Task 
+# Task
 
 ## 1. Write a short description of how your role fits into the Agile team.
-As a UX Designer Intern, my role fits into the Agile team by helping improve the overall user experience through design research, interface planning, and collaboration with other team members.
+My role as a UX Designer fits into the agile team by helping improve the overall user experience through design research and collaboration with other team members.
 
 ## 2. Identify one other role you frequently collaborate with and describe how you can improve teamwork with them.
-I frequently collaborate with developers because they implement the designs and features I help create. 
-Teamwork can improve through clearer communication, regular feedback, and shared understanding of project goals and user needs.
-
-
+The customer support team receives a lot of feedback directly from the user. As a UX Designer, those feedback are useful for improving the project design and give us a better view on what the user needs.
 
 
 
