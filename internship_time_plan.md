@@ -1,6 +1,6 @@
 # Internship Time Plan
 
-#### Internship Schedule: Monday - Friday (50 hours a week)
+#### Internship Schedule: Monday - Friday (~75 hours a week)
 
 ### Monday
 - 8:00 AM – 9:00 PM
