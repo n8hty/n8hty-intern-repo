@@ -2,7 +2,7 @@
 
 #### Internship Schedule: Monday - Friday (~68 hours a week)
 
-### Monday (
+### Monday
 - 8:00 AM – 9:30 PM
 - Location: Home
 
