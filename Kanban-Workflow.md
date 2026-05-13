@@ -46,5 +46,8 @@ The benefits of limiting WIP helps the team:
 The Kanban helps manage priorities and avoid overload because it clearly shows which tasks are most important. Fewer tasks on the to-do list avoids the feeling of being overwhelmed.
 
 ## 2. How can you improve your workflow using Kanban principles?
-Using Kanban principles helps me stay organized despite having numerous tasks on the list and allows me to focus on one task at a time.
+Using Kanban principles helps me stay organized despite having numerous tasks on the list and allows me to focus on one task at a time. 
 
+## Kanban Board on Github
+https://github.com/users/n8hty/projects/1
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/a863c72c-11cd-4fb2-b35f-fd6da56b58ab" />
