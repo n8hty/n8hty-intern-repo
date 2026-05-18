@@ -21,13 +21,15 @@ and easy to understand helps developers and stakeholders implement the design mo
 
 ## How can UX ensure a smooth handoff between design and development?
 A smooth handoff between design and development depends on strong communication and collaboration. Clear documentation, regular discussions, and 
-early feedback help avoid misunderstandings and make the implementation process more efficient.
+early feedback help avoid misunderstandings and make the implementation process more efficient. I would make sure that developers have organized figma links
+with clear labels and component details.
 
 ## What challenges might arise when design, dev, and product teams have conflicting priorities?
-The challenges that might arise when design, dev, and product teams have conflicting priorities can lead to delays, compromises, or inconsistent user experiences. 
-Balancing business goals, technical constraints, and user needs often requires teamwork, flexibility, and open communication.
+The challenges that might arise when design, dev, and product teams have conflicting priorities can lead to delays, compromises, or inconsistent user experiences. Balancing business goals, technical constraints, and user needs often requires teamwork, flexibility, and open communication.
+
  
 ## If a developer modifies a UX design due to technical limitations, how should a UX designer respond?
 If a developer modifies a UX design due to technical limitations, the designer should work closely with them to understand the issue and explore 
-alternative solutions. The goal is to find a practical compromise that still maintains a positive user experience.
+alternative solutions. If developers say that a feature or design is difficult to implement within the deadline, I would want to discuss simpler alternatives.
+The goal is to find a practical compromise that still maintains a positive user experience.
 
