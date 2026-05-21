@@ -20,16 +20,11 @@ and easy to understand helps developers and stakeholders implement the design mo
 # Reflection
 
 ## How can UX ensure a smooth handoff between design and development?
-A smooth handoff between design and development depends on strong communication and collaboration. Clear documentation, regular discussions, and 
-early feedback help avoid misunderstandings and make the implementation process more efficient. I would make sure that developers have organized figma links
-with clear labels and component details.
+A smooth handoff depends on clear communication, organized documentation, and regular feedback. In a project like Focus Bear, I would organize Figma files with labeled flows, reusable components, spacing details, and interaction notes so developers can implement designs more accurately and consistently.
 
 ## What challenges might arise when design, dev, and product teams have conflicting priorities?
-The challenges that might arise when design, dev, and product teams have conflicting priorities can lead to delays, compromises, or inconsistent user experiences. Balancing business goals, technical constraints, and user needs often requires teamwork, flexibility, and open communication.
+Conflicting priorities can cause delays or compromises in usability. For example, the product team may want more customization features, while UX may worry that too many settings could overwhelm neurodivergent users. I would suggest starting with simpler features first, then improving them based on user feedback.
 
- 
 ## If a developer modifies a UX design due to technical limitations, how should a UX designer respond?
-If a developer modifies a UX design due to technical limitations, the designer should work closely with them to understand the issue and explore 
-alternative solutions. If developers say that a feature or design is difficult to implement within the deadline, I would want to discuss simpler alternatives.
-The goal is to find a practical compromise that still maintains a positive user experience.
+The designer should work with developers to find practical alternatives that still support a good user experience. For example, if animations affect performance, I would simplify the animations instead of removing the feature completely, especially if it is helpful for neurodivergent users.
 
