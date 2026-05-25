@@ -69,4 +69,9 @@ I think retrospectives are the most important ceremony for my role as a UX Desig
 and what could be improved in the design and collaboration process. Retrospectives encourage open communication, feedback, and continuous improvement, which helps me learn 
 from past work and improve future user experience designs.
 
+# Task
+
+### Document one change you can make to improve your team collaboration.
+Assigning members/new interns tasks to allow them to collaborate with the rest of the older ones.
+
 
